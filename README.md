@@ -7,3 +7,4 @@ Object will be Serialized by client => Sent using TCP => Server will Deserialize
 - Input the data
 
 # Result
+![alt text](https://github.com/marvel-natanael/Replication/blob/master/result.jpg)
